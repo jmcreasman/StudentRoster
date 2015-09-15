@@ -4,16 +4,16 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
+| _:house:_ | Raleigh, NC |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:birthday:_ | _:09/02/1990:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _sport_  | Football|
+| _team_   | Packers|
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
