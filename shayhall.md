@@ -1,12 +1,10 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
-
-[jmcreasman](https://github.com/jmcreasman)
-
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+# [Shay Hall](https://github.com/ShayHall)
+# [ShayHall] (https://github.com/ShayHall)
+# [![Shay Hall](https://avatars0.githubusercontent.com/u/13802039?v=3&s=460)](https://github.com/ShayHall)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ | Atlanta, GA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

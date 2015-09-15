@@ -1,12 +1,12 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
+# [Jasmine Baik](https://github.com/boshnivolo)
 
-[jmcreasman](https://github.com/jmcreasman)
+[![Jasmine Baik](https://avatars3.githubusercontent.com/u/13842015?v=3&s=460)] (https://github.com/boshnivolo)
 
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+# [boshnivolo](https://github.com/boshnivolo)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
@@ -55,3 +55,4 @@
 | category        | value                        |
 |-----------------|------------------------------|
 | _:hand:-edness_ | :point_left: / :point_right: |
+

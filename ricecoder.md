@@ -1,12 +1,13 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
+# [Lacey Rice](https://github.com/Ricecoder)
 
-[jmcreasman](https://github.com/jmcreasman)
+[![Lacey Rice](https://avatars0.githubusercontent.com/u/13753919?v=3&s=460)] (https://github.com/Ricecoder) 
 
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+#[Ricecoder] (https://github.com/Ricecoder)
+
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ | Vero Beach, Florida |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

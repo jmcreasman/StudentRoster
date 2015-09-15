@@ -1,12 +1,11 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
+# [Jeremy Rist](https://github.com/jeremyrist)
+# [jeremyrist](https://github.com/jeremyrist)
 
-[jmcreasman](https://github.com/jmcreasman)
-
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+![Jeremy Rist](https://avatars3.githubusercontent.com/u/13407041?v=3&s=460)(https://github.com/jeremyrist)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ |Durham, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

@@ -1,12 +1,10 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
+# [Kristine Erickson](https://github.com/ericksonk)
 
-[jmcreasman](https://github.com/jmcreasman)
-
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+![Kristine Erickson](http://i.imgur.com/gi8YYlc.jpg?1)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ | Raleigh, NC |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

@@ -1,12 +1,10 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
-
-[jmcreasman](https://github.com/jmcreasman)
-
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+# [David White](https://github.com/s4dmw)
+# [s4dmw](https://github.com/s4dmw)
+ [![David White](https://avatars0.githubusercontent.com/u/13879097?v=3&s=460)](https://github.com/s4dmw)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ | Raleigh, NC|
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

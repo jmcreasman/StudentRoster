@@ -1,12 +1,10 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
+# [Nicky Cadavillo][https://github.com/nickycadavillo)
 
-[jmcreasman](https://github.com/jmcreasman)
-
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+![Nicky Cadavillo](https://avatars1.githubusercontent.com/u/11246178?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

@@ -1,12 +1,12 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
+# [J.R. Worley](https://github.com/jeffworley)
 
-[jmcreasman](https://github.com/jmcreasman)
+### [username: jeffworley](https://github.com/jeffworley)
 
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+[![J.R. Worley](https://avatars.githubusercontent.com/jeffworley)](https://github.com/jeffworley)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
+| _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 

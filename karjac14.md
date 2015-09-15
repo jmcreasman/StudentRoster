@@ -1,14 +1,12 @@
-# [Jonathan Creasman](https://github.com/jmcreasman)
+# [Karlo Eleuterio](https://github.com/karjac14)
 
-[jmcreasman](https://github.com/jmcreasman)
-
-[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
+![Karlo Eleuterio](https://avatars3.githubusercontent.com/u/8317978?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Cary, NC |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:house:_ | Philipines |
+| _:dog: or :cat:_ |  |
+| _:birthday:_ | June 01 |
 
 ## Faves! :v:
 
@@ -16,7 +14,7 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | Milk |
 | _food_   | --- |
 | _movie_  | --- |
 | _book_  | :books: |
