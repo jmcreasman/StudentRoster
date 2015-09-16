@@ -6,7 +6,11 @@
 
 | category | value |
 |-----------|-------|
+<<<<<<< HEAD
 | _:house:_ | Cary, USA |
+=======
+| _:house:_ | Cary, NC |
+>>>>>>> 0cbd56ff72bd7c53018d0ca76e29e29568f0e2f4
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:3/11/89:_ |
 
